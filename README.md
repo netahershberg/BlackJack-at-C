@@ -3,14 +3,10 @@ BlackJack game implemented at C (C99)
 
 **Run blackjackmain.c to play the game.
 **
-
-The game is basd console and it's realy fun!
-look at the vide below to watch the game's flow.
-
+This is a console-based game, and it's really fun!
+Check out the video below to see how the game plays.
 
 
-
-
-
-https://github.com/user-attachments/assets/c8884b2c-4e2f-4bc0-936e-2f673a52e228
+BlackJack - game's flow
+https://github.com/user-attachments/assets/b0e6fac3-cb6e-4f12-b872-64c26e17ced4
 
