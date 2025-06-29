@@ -8,5 +8,10 @@ Check out the video below to see how the game plays.
 
 
 BlackJack - game's flow
-https://github.com/user-attachments/assets/b0e6fac3-cb6e-4f12-b872-64c26e17ced4
+
+
+
+
+
+https://github.com/user-attachments/assets/051a0e19-31dc-410d-93c3-8e03fa0bccde
 
